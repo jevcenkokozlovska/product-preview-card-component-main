@@ -104,7 +104,7 @@ h1, p {
         grid-template-columns: 1fr 1fr;
         justify-items: center;
     }
-    .product__content {
-        font-size: clamp(0.5rem, 0.75rem+1.5vw, 2rem);
+    img {
+        height: 100%;
     }
 }
